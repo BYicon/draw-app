@@ -18,8 +18,6 @@
 - **海报生成**: 用户可以生成带有自己邀请码的邀请海报，供分享使用
 - **邀请奖励**: 通过邀请好友注册、参与活动，获取奖励的逻辑
 
-![index](https://github.com/user-attachments/assets/5620e563-961d-4f7a-9a5c-723f1d7a9db4)
-
 
 # WeChat Draw Mini Program
 
@@ -40,3 +38,15 @@ Due to changes in WeChat's terms of service, the online version of this mini pro
 - **API Abuse Prevention**: Encryption and rate-limiting techniques are used to protect APIs from malicious users.
 - **Poster Generation**: Users can generate invitation posters with personalized referral codes to invite friends.
 - **Referral Rewards**: The project implements a reward system where users can earn tickets by inviting friends to register and participate in the activity.
+
+![index](https://github.com/user-attachments/assets/5620e563-961d-4f7a-9a5c-723f1d7a9db4)
+![index3](https://github.com/user-attachments/assets/3fc095fb-453b-44e3-8a1b-7ac90194a3b7)
+![p4](https://github.com/user-attachments/assets/ec448927-5a93-469d-b2a2-4b6c4a778c71)
+![p5](https://github.com/user-attachments/assets/bcf60587-9efb-4506-a3a9-0b4d80f8e3fd)
+![recent](https://github.com/user-attachments/assets/42e14c72-35d9-4e33-870d-8223da81079c)
+
+
+
+
+
+
