@@ -1,0 +1,9 @@
+ {
+  "extends": ["taro/react"],
+  "parser": "@babel/eslint-parser",
+  "rules": {
+    "react/jsx-uses-react": "off",
+    "react/react-in-jsx-scope": "off",
+    "semi": "error"
+  }
+}

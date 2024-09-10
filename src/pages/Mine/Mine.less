@@ -1,0 +1,99 @@
+page {
+    height: 100%;
+    width: 100%;
+    background: #F1F1F1;
+    font-size: 30rpx;
+    color: #333;
+}
+.mine-page {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 0 0;
+}
+.mine-body {
+    flex: 1;
+    overflow: auto;
+}
+.user-info {
+    text-align: center;
+    margin-top: 64rpx;
+    .avatar {
+        width: 120rpx;
+        height: 120rpx;
+        border-radius: 50%;
+    }
+    .user-name {
+        font-size: 40rpx;
+        font-family: PingFangSC-semiBold;
+        margin-top: 26rpx;
+        color: #fff;
+    }
+}
+.login-btn {
+    background: none;
+    font-size: 40rpx;
+    font-family: PingFangSC-semiBold;
+    color: #fff;
+    border: 0;
+    width: 200rpx;
+    margin: 26rpx auto 0;
+}
+.mine-assets {
+    display: flex;
+    margin: 42rpx 30rpx;
+    background-color: #333;
+    text-align: center;
+    color: #fff;
+    padding: 40rpx;
+    font-size: 24rpx;
+    border-radius: 24rpx;
+}
+.mine-panel {
+    flex: 1;
+    border-right: 1rpx solid #F2E0A2;
+    &:last-child {
+        border: 0;
+    }
+}
+.mine-value {
+    font-size: 40rpx;
+    color: #F2E0A2;
+    margin-bottom: 16rpx;
+}
+.mine-menu-list {
+    margin: 42rpx 30rpx;
+    background-color: #fff;
+    border-radius: 24rpx;
+    padding: 10rpx 24rpx;
+}
+.mine-menu {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 110rpx;
+    background-color: transparent;
+    border-bottom: 1rpx solid #ddd;
+    border-radius: 0;
+    &:last-child {
+        border: 0 none;
+    }
+}
+.mine-menu-icon {
+    width: 42rpx;
+    height: 42rpx;
+}
+.mine-menu-label {
+    font-size: 32rpx;
+    margin-left: 15rpx;
+    line-height: 1.5;
+}
+.mine-menu-left {
+    display: flex;
+    align-items: center;
+}
+.mine-menu-right {
+    width: 36rpx;
+    height: 36rpx
+}
