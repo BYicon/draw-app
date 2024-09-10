@@ -17,7 +17,9 @@
 - **接口防刷**: 通过加密和限流机制，防止恶意用户刷接口
 - **海报生成**: 用户可以生成带有自己邀请码的邀请海报，供分享使用
 - **邀请奖励**: 通过邀请好友注册、参与活动，获取奖励的逻辑
-- 
+
+![index](https://github.com/user-attachments/assets/5620e563-961d-4f7a-9a5c-723f1d7a9db4)
+
 
 # WeChat Draw Mini Program
 
